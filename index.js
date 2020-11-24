@@ -186,14 +186,10 @@ function hihi (){
     }
     
 
-
-    
-
-
-
     var w;
     if ( luat == 0){
-        out =0;
+        out = 0;
+        
     }
     else if(luat == 1){
         w = min(m_day,am_cao,m_nang);
