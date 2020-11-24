@@ -6,3 +6,4 @@ mở giữ cho tất cả các file trong cùng 1 thư mục
 mở file index.html để chạy chương trình
 
 yêu cầu có ít nhất 1 trình duyệt trên máy tính
+hoặc truy cập trang web: http://tuoicay.phivan.ga
